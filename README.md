@@ -1,2 +1,2 @@
 # RubyOnRailsPractice
-Sample Learning Projects on RoR
+Sample Learning Projects on RoR. Testing Push.
